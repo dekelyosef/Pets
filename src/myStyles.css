@@ -1,0 +1,24 @@
+.form-body {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin: 20px 400px;
+}
+
+.header {
+  font-size: 30px;
+}
+
+.pets-screen {
+  margin: 20px 0px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.input-container {
+  margin: 10px 0px;
+}
+
+.select-container {
+  width: 100%;
+}
